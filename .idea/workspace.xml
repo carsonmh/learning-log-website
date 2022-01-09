@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84129971-ecdd-4add-96a1-db9b26f07b94" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bgfzJdJ4xTgTbfCgTXxSd8YYaK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84129971-ecdd-4add-96a1-db9b26f07b94" name="Default Changelist" comment="" />
+      <created>1589058917942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589058917942</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="324" y="99" key="#Inspections" timestamp="1590003235150">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="324" y="99" key="#Inspections/0.23.1440.821@0.23.1440.821" timestamp="1590003235150" />
+    <state x="440" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593398898237">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="440" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.821@0.23.1440.821" timestamp="1592797198907" />
+    <state x="440" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.822@0.23.1440.822" timestamp="1593398898237" />
+    <state x="221" y="73" key="SettingsEditor" timestamp="1593395322777">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="221" y="73" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1593395322777" />
+    <state x="401" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1593395299878">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="401" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1592423180351" />
+    <state x="401" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1593395299878" />
+    <state x="389" y="168" width="670" height="158" key="search.everywhere.popup" timestamp="1592950886347">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="389" y="168" width="670" height="158" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1592950886347" />
+  </component>
+</project>
